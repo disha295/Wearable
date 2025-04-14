@@ -1,8 +1,14 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import os
 
-# Load your trend+nudge dataset
+st.write("📂 Files in current directory:")
+st.write(os.listdir())
+
+if not os.path.exists("weekly_nudges_llm.csv"):
+    st.error("❌ File 'weekly_nudges_llm.csv' not found in current directory.")
+
 df = pd.read_csv("weekly_nudges_llm.csv", parse_dates=["week"])
 
 # Melt for plotting
