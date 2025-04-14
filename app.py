@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # Load your trend+nudge dataset
-df = pd.read_csv("/Users/apple/Documents/Wearable/tableau_exports/weekly_nudges_llm.csv", parse_dates=["week"])
+df = pd.read_csv("/Users/apple/Documents/Wearable/weekly_nudges_llm.csv", parse_dates=["week"])
 
 # Melt for plotting
 melted = df.melt(
