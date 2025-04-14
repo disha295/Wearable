@@ -1,0 +1,177 @@
+week,RestingHeartRate,HRV,ExerciseTime,Sleep,Daylight,HeadphoneAudio,TrendSummary,LLM_Nudge
+2021-11-15,,,,,,0.08387639112179829,,
+2021-11-22,,,,,,-0.43199753738055385,,
+2021-11-29,,,,,,0.21880162905362158,,
+2021-12-06,,,,,,0.4967020698276405,,
+2021-12-13,,,,,,-0.035912213036587856,,
+2021-12-20,,,,,,0.49708907191306667,,
+2021-12-27,,,,,,-0.6157082745096419,Noise Exposure: -0.62,"""Consider wearing noise-reducing headphones or taking regular breaks in quiet spaces to minimize excessive noise exposure (-0.62) and protect your auditory health."""
+2022-01-03,,,,,,-0.5723202602174301,Noise Exposure: -0.57,"""Consider ear protection or noise-reducing measures due to excessive noise exposure, as a score of -0.57 indicates potential hearing strain."""
+2022-01-10,,,,,,0.47073225515046674,,
+2022-01-17,,,,,,0.1536327092921119,,
+2022-01-24,,,,,,-0.25648120633719756,,
+2022-01-31,,,,,,-0.467045920825543,,
+2022-02-07,,,,,,0.01969921903858875,,
+2022-02-14,,,,,,-0.23006540808939904,,
+2022-02-28,,,,,,0.09281948332891611,,
+2022-03-07,,,,,,1.0549015771179426,Noise Exposure: +1.05,"""Consider using hearing protection or reducing noise exposure to minimize potential long-term auditory damage."""
+2022-03-14,-0.7071067811865476,,0.7071067811865476,,,0.44941432792538694,Resting HR: -0.71 | Exercise Time: +0.71,"""Boost your physical activity with a moderate intensity workout to counterbalance your sluggish resting heart rate."""
+2022-03-21,0.20008147326653705,,0.005132937890005426,,,-0.05320900244645949,,
+2022-03-28,0.14413738492769518,,-0.6078929720690722,,,0.02189938904146525,Exercise Time: -0.61,"""Boost your daily movement by 15-20 minutes to counteract recent exercise time decline."""
+2022-04-04,0.2605766371570923,,0.43243463302572327,,,-0.2048018906975237,,
+2022-04-11,-0.5100630179171857,,0.28969478945571286,,,0.1262725999825211,Resting HR: -0.51,"""Consider incorporating gentle cardio exercises to increase heart rate, as a negative resting HR z-score may indicate reduced cardiovascular fitness."""
+2022-04-18,0.1394336845659522,,-0.1540255763429577,,,-0.10866188112750581,,
+2022-04-25,0.37477758683042156,,0.8263751264433524,,,-0.8938501562969561,Exercise Time: +0.83 | Noise Exposure: -0.89,"""Consider reducing noise exposure time to minimize potential health risks given your current negative z-score."""
+2022-05-02,-0.3518770201200336,,-0.08760721313060835,,,0.980019600382949,Noise Exposure: +0.98,"""Given elevated noise exposure, prioritize hearing protection and explore quieter environments or earplugs to mitigate potential auditory risks."""
+2022-05-09,0.2843046177748615,,-0.4435337018224025,,,-0.7267688213810808,Noise Exposure: -0.73,"""Reduce noise exposure to mitigate potential hearing risks; consider ear protection measures to maintain auditory health."""
+2022-05-16,-0.3625374351920147,,0.6397995655312254,,,0.041584888923818286,Exercise Time: +0.64,"""Boost your physical activity with an additional 15-minute exercise session today, leveraging the positive momentum of a +0.64 Z-Score trend!"""
+2022-05-23,0.3160265727120134,,-0.5169562531728418,,,0.8358647691069573,Exercise Time: -0.52 | Noise Exposure: +0.84,"""Limit noise exposure and prioritize quieter activities to mitigate potential auditory harm and promote overall well-being."""
+2022-05-30,0.00634815630586947,,0.3929085138871792,-0.71,,-0.5773513624326,Sleep: -0.71 | Noise Exposure: -0.58,"""Consider improving sleep hygiene to reduce sleep z-score (-0.71) and potentially mitigate negative impacts on overall well-being."""
+2022-06-06,-0.24418204703180352,,0.1685453701936795,,,0.20751535591312997,,
+2022-06-13,-0.17818399194861972,,0.3459255584044896,-0.51,,-0.5095960700595143,Sleep: -0.51 | Noise Exposure: -0.51,"""Prioritize a quiet environment tonight to optimize sleep quality, as both Sleep and Noise Exposure z-scores indicate significant disturbance."""
+2022-06-20,-0.26012588367360295,,-0.4619447844031605,,,0.5525725658395568,Noise Exposure: +0.55,"""Consider ear protection or noise-reducing measures to mitigate excessive noise exposure (+0.55 z-score), potentially preserving hearing health."""
+2022-06-27,0.30026772174039146,,-0.43378736073812735,,,-0.43709559641136914,,
+2022-07-04,0.5215156343361492,,0.4473018906170137,,,0.5181342439675233,Resting HR: +0.52 | Noise Exposure: +0.52,"""Consider ear protection or adjust noise levels to minimize exposure, as both Resting HR and Noise Exposure are above average."""
+2022-07-11,-0.06471878134793431,,-0.5400473699452736,-0.78,,-0.49752234144756147,Exercise Time: -0.54 | Sleep: -0.78,"""Prioritize a 30-minute morning walk to boost exercise time and counterbalance sleep deficit for increased energy and alertness."""
+2022-07-18,0.41663012606697325,,0.35073469145619196,,,0.25625133073840795,,
+2022-07-25,-0.11139052837684453,,0.2843106647518042,0.74,,-0.5255770011664828,Sleep: +0.74 | Noise Exposure: -0.53,"""Consider using earplugs or noise-cancelling devices to mitigate excessive noise exposure and prioritize sleep quality, given your above-average noise exposure z-score."""
+2022-08-01,-0.4532078702485233,,0.16604550356988934,,,-0.5358998188524708,Noise Exposure: -0.54,"""Consider ear protection or modify noise sources at work/home to minimize exposure below -0.54 Z-Score, as prolonged loud sounds may impact hearing health."""
+2022-08-08,0.18030265351055605,,0.2239403201061274,,,0.07976384923938444,,
+2022-08-15,0.0428511031253226,,-0.3565042737653436,,,-0.195939915863774,,
+2022-08-22,-0.3380506503644751,,-0.5087328197292199,,,0.3534889632236005,Exercise Time: -0.51,"""Boost physical activity by 15 minutes daily to offset current exercise time deficit."""
+2022-08-29,0.6376883577653708,,0.33970518514113507,,,0.587062986719888,Resting HR: +0.64 | Noise Exposure: +0.59,"""Consider ear protection or noise-reducing headphones due to elevated noise exposure (+0.59), potentially minimizing hearing strain."""
+2022-09-05,-0.7792048644469683,,0.22350944503046433,,,-0.28397295411611373,Resting HR: -0.78,"""Consider gentle cardio exercises to reduce resting heart rate, aiming for a score closer to zero."""
+2022-09-12,-0.424696618335546,,-0.4567011508084155,,,-0.3077586404539691,,
+2022-09-19,0.07917787765034835,,0.8428635454130197,,,0.5839752354916412,Exercise Time: +0.84 | Noise Exposure: +0.58,"""Consider reducing noise exposure time due to elevated z-score (+0.58), potentially impacting overall well-being."""
+2022-09-26,0.02700406643501117,,-0.0867715695020162,,,-0.04555048423076975,,
+2022-10-03,-0.18199815250937862,,0.25088127576336366,,,0.0514238935742144,,
+2022-10-10,-0.10214300262829913,,0.14249442646033214,,,-0.35551951734101433,,
+2022-10-17,0.333068905884701,,0.18406363219075997,,,-0.37596804423008634,,
+2022-10-24,0.4161724007243512,,0.14966690397377272,,,0.134699621926721,,
+2022-10-31,-0.24779674143797034,,0.04847134329333051,,,-0.7653021454494199,Noise Exposure: -0.77,"""Consider ear protection or noise-reducing measures to minimize potential hearing damage, given your current noise exposure z-score of -0.77."""
+2022-11-07,0.19496055547872784,,-0.229487679661602,,,1.7199060397760375,Noise Exposure: +1.72,"""Consider wearing ear protection or adjusting noise exposure habits to prevent potential hearing damage, given the elevated z-score (+1.72)."""
+2022-11-14,0.25173466392793414,,-0.11572253831367604,0.71,,0.017023367414113727,Sleep: +0.71,"""Based on your elevated Sleep z-score, prioritize establishing a relaxing bedtime routine to support optimal rest and recovery."""
+2022-11-21,-0.23207797953622816,,-0.18702771689349662,,,-0.5231875277361837,Noise Exposure: -0.52,"""Consider ear protection or noise-cancelling measures to reduce exposure, as current levels are below average (-0.52), potentially impacting auditory health."""
+2022-11-28,-0.0179016723761622,,0.23787183435454287,,,0.06345468196296969,,
+2022-12-05,-0.30266338898136375,,0.22863281566609897,,,0.058260849710684695,,
+2022-12-12,0.1421775310878794,,0.5617079421641845,,,-0.1811929349338503,Exercise Time: +0.56,"""Consider increasing your exercise time to capitalize on this positive trend, potentially enhancing overall physical activity and well-being."""
+2022-12-19,0.0005374205910902509,,-0.08495153978997279,,,-0.29277254855201074,,
+2022-12-26,0.2740448434013389,,0.19448082269654085,,,-0.32818747610478904,,
+2023-01-02,-0.23542001634330287,,0.8580060678901967,0.64,,0.7021097086011688,Exercise Time: +0.86 | Sleep: +0.64 | Noise Exposure: +0.70,"""Given the positive z-scores for Exercise Time, Sleep, and Noise Exposure, I recommend maintaining your current active routine and exploring noise-reducing strategies to further optimize overall well-being."""
+2023-01-09,0.06160506236147621,,-0.22489575529074698,,,0.35190435060424247,,
+2023-01-16,-0.685695755241322,,-0.6262801851782969,,,0.2501808702861452,Resting HR: -0.69 | Exercise Time: -0.63,"""Consider incorporating more physical activity to boost your heart rate and cardiovascular health, given the lower-than-average resting HR and exercise time."""
+2023-01-23,0.0767657330679754,,0.4258169421495244,,,,,
+2023-01-30,0.06688797422483327,,-0.6853475440540145,,,0.2237774011285314,Exercise Time: -0.69,"""Consider increasing exercise time to offset negative trends; even small increments can have a positive impact on overall well-being."""
+2023-02-06,0.5131892587065173,,0.11889628510195441,,,-0.017962101646558242,Resting HR: +0.51,"""Consider incorporating stress-reducing activities, such as yoga or meditation, given your elevated Resting HR (+0.51), which may benefit heart rate variability."""
+2023-02-13,-0.1511670836749506,,0.26387029621448443,,,-0.4300985731209834,,
+2023-02-20,0.027279872271072154,,-0.42492100945202377,,,-0.26577080803386277,,
+2023-02-27,-0.29595314025949454,,-0.06323450429379583,,,-0.0718242126855702,,
+2023-03-06,-0.04192787746661909,,-0.07275306436141502,,,-0.1330687224172686,,
+2023-03-13,0.5130626212215833,,0.040806360281223454,0.55,,0.35392581707929854,Resting HR: +0.51 | Sleep: +0.55,"""Consider increasing physical activity to offset elevated resting heart rate and optimize overall cardiovascular well-being."""
+2023-03-20,0.1265595372972704,,0.04831086548215412,,,0.08525071017605862,,
+2023-03-27,-0.19318083297849567,,-0.0609607210654643,,,-0.5660933183326072,Noise Exposure: -0.57,"""Reduce noise exposure by using ear protection or adjusting work environments due to your current score of -0.57, potentially impacting hearing health."""
+2023-04-03,0.01729137655723188,,-0.015009070824237193,,,1.2045548180911954,Noise Exposure: +1.20,"""Consider investing in noise-reducing ear protection or adjusting workspaces to minimize excessive noise exposure, as the current +1.20 z-score may be impacting auditory health."""
+2023-04-10,0.2788028101770617,,0.06854297345881914,,,-0.47961892677890344,,
+2023-04-17,-0.03178022744772007,,0.3213388799033972,,,-0.645377224671228,Noise Exposure: -0.65,"""Consider wearing ear protection or reducing noise exposure to mitigate potential hearing risks given your negative z-score of -0.65."""
+2023-04-24,-0.6274487061266196,,-0.3903554699952427,,,0.7897813128267068,Resting HR: -0.63 | Noise Exposure: +0.79,"""Wear ear protection during noise exposure due to elevated z-score (+0.79), ensuring auditory health."""
+2023-05-01,0.13616120543735122,,0.27853056186025105,,,-1.0422593399105302,Noise Exposure: -1.04,"""Consider wearing noise-reducing gear or adjusting work environments to mitigate prolonged noise exposure (-1.04), preserving auditory health."""
+2023-05-08,0.4035264371176749,,-0.5883014580378167,,,-0.653875721870585,Exercise Time: -0.59 | Noise Exposure: -0.65,"""Consider reducing noise exposure by 30 minutes daily to minimize potential negative effects on overall well-being."""
+2023-05-15,0.21535508960818087,,-0.02559373587619199,,,1.2114675247447595,Noise Exposure: +1.21,"""Consider wearing ear protection or limiting noise exposure due to elevated z-score (+1.21), potentially reducing hearing-related risks."""
+2023-05-22,-0.05037113093374384,,0.018579892782729646,,,-0.4370755817901427,,
+2023-05-29,0.16912582562440395,,0.3465188468384781,,,0.8897482030650963,Noise Exposure: +0.89,"""Consider using noise-cancelling headphones or earplugs regularly to mitigate excessive noise exposure and reduce potential long-term hearing health risks."""
+2023-06-05,-0.08414442953782049,,-0.2279264319710972,,,-0.5618130222465719,Noise Exposure: -0.56,"""Prioritize reducing noise exposure by exploring quieter environments or using ear protection, as excessive noise can negatively impact overall well-being."""
+2023-06-12,0.9543770171622189,,0.29658620972607963,,,0.8462038265859737,Resting HR: +0.95 | Noise Exposure: +0.85,"""Prioritize ear protection or noise reduction measures due to elevated Noise Exposure (+0.85), potentially affecting auditory health."""
+2023-06-19,-0.3195584668099576,,0.18767506220351038,-0.57,,-0.6018016258141925,Sleep: -0.57 | Noise Exposure: -0.60,"""Prioritize a quiet sleep environment or consider earplugs to mitigate excessive noise exposure, as both metrics suggest you're struggling with restful sleep."""
+2023-06-26,-0.47226159686244007,,0.4504992040964018,,,0.3181741428518162,,
+2023-07-03,-0.11096900236321641,,-0.29586159148036345,,,-0.23939425526508334,,
+2023-07-10,-0.42671830882128897,,-0.24214527357618842,,,0.1783002324367984,,
+2023-07-17,-0.1425680546249064,,0.34099289885633405,,,-0.6153904363379946,Noise Exposure: -0.62,"""Given your noise exposure z-score of -0.62, consider wearing ear protection or limiting loud activities to preserve hearing health."""
+2023-07-24,0.0013214989293452767,,-0.29045016983924277,,,-0.5130993834539489,Noise Exposure: -0.51,"""Consider ear protection or noise reduction techniques due to excessive noise exposure (Z-Score: -0.51), potentially impacting hearing health."""
+2023-07-31,0.2211536432379577,,0.7326856723220927,,,0.47199812714135114,Exercise Time: +0.73,"""Given your elevated exercise time, consider incorporating strength training or flexibility exercises to optimize physical performance and reduce potential fatigue."""
+2023-08-07,0.6374885532546963,,0.2384062862390854,,,-0.32082417750134967,Resting HR: +0.64,"""Consider incorporating stress-reducing activities to manage increased Resting HR (+0.64), potentially impacting overall well-being."""
+2023-08-14,-0.29217459098634546,,-0.5928196141741898,,,-0.25615074995509196,Exercise Time: -0.59,"""Prioritize increasing exercise time by 15-20 minutes daily to improve overall physical activity and potentially boost energy levels."""
+2023-08-21,1.0865183397926574,,0.4734039224713826,,,0.3835212700244939,Resting HR: +1.09,"""Given your elevated resting heart rate (+1.09), I suggest incorporating stress-reducing techniques or meditation practices to promote relaxation and regulate cardiovascular activity."""
+2023-08-28,-0.7511616641028295,,0.5076336727462716,0.56,,-0.058247266196345876,Resting HR: -0.75 | Exercise Time: +0.51 | Sleep: +0.56,"""Consider increasing Exercise Time to balance out Resting HR; +0.51 z-score suggests a positive correlation between physical activity and heart rate regulation."""
+2023-09-04,-0.03037189035658061,,-0.2613072582453861,,,-0.3005340242653028,,
+2023-09-11,0.3962386813803745,,0.2283638402793691,,-0.56,0.4592298231184215,Daylight: -0.56,"""Prioritize natural light exposure through morning walks or outdoor activities to boost mood and cognitive function, as a negative daylight z-score suggests a potential need for increased sunlight."""
+2023-09-18,0.21697187268717702,,-0.3668733799929113,,,0.16376328063127973,,
+2023-09-25,-0.6476924497214855,,0.16272151457086945,,-0.63,-0.6117392406795704,Resting HR: -0.65 | Daylight: -0.63 | Noise Exposure: -0.61,"""Consider incorporating stress-reducing activities into your daily routine to offset the negative trends in Resting HR, Daylight, and Noise Exposure."""
+2023-10-02,0.019984301480586435,,-0.12379560021074047,,0.58,0.036333422984365746,Daylight: +0.58,"""Consider increasing natural light exposure, as a +0.58 Z-Score suggests an optimal daylight environment for overall well-being."""
+2023-10-09,0.4271193057250596,,-0.1324672621918843,,,0.18062473115938799,,
+2023-10-16,-0.17011142559350148,,-0.052104571543711176,,,0.019266823801226463,,
+2023-10-23,-0.28954728202170665,,0.3798361350898682,,,0.17019394502497004,,
+2023-10-30,0.6206576449454989,,0.19595991545750283,,,0.26539317105636423,Resting HR: +0.62,"""Consider increasing physical activity or stress-reducing exercises to regulate your heart rate, as a +0.62 z-score indicates elevated resting HR."""
+2023-11-06,-0.35714652898654686,,-0.5260687090543444,,,-0.035527578936981614,Exercise Time: -0.53,"""Consider increasing exercise time by 30 minutes daily to improve overall physical fitness."""
+2023-11-13,-0.34927945285626777,,0.21935351424430888,,,0.2093098249599884,,
+2023-11-20,0.6662104105339165,,-0.3209126163108745,-0.63,0.53,-0.34259013402090543,Resting HR: +0.67 | Sleep: -0.63 | Daylight: +0.53,"""Consider increasing Daylight exposure to balance your circadian rhythms and potentially reduce Resting HR."""
+2023-11-27,-0.06615824812859702,,-0.4791808721658312,,,-0.12915290119570166,,
+2023-12-04,0.07684107404806956,,0.7582775439795343,,,0.4503773834875738,Exercise Time: +0.76,"""Boost your daily exercise routine by 15-20 minutes to capitalize on this positive trend and potentially enhance overall well-being."""
+2023-12-11,-0.5582902427487187,,0.0108654826470407,0.53,,-0.19211112304268754,Resting HR: -0.56 | Sleep: +0.53,"""Prioritize stress-reducing sleep habits to compensate for slightly elevated heart rate."""
+2023-12-18,0.08408937956468397,,0.021910187890449094,,,0.07934114291745467,,
+2023-12-25,-0.24488686689960956,,-0.022018256340258446,,-1.19,-0.1269508762265174,Daylight: -1.19,"""Prioritize morning sunlight exposure to counterbalance the negative daylight trend and potentially boost mood and overall well-being."""
+2024-01-01,0.32147907077445037,,0.007952078568619014,,-0.86,-0.5241979301884808,Daylight: -0.86 | Noise Exposure: -0.52,"""Prioritize daytime activities with reduced noise exposure to compensate for lower daylight levels and potentially negative effects on overall well-being."""
+2024-01-08,-0.1594083917822138,,0.1329609655234227,,-0.57,0.45470696077432426,Daylight: -0.57,"""Consider increasing daylight exposure to offset negative trends; prioritize morning activities or schedule accordingly."""
+2024-01-15,0.7016645157301084,,-0.011415321376433196,,,-0.2672402940556431,Resting HR: +0.70,"""Given your elevated resting heart rate (+0.70), consider incorporating stress-reducing activities or relaxation techniques to manage increased cardiovascular activity."""
+2024-01-22,-0.31436587075485795,,-0.600934742268794,,0.54,-0.10562443065579918,Exercise Time: -0.60 | Daylight: +0.54,"""Consider incorporating morning exercises or daytime physical activities to capitalize on Daylight's positive influence and balance out Exercise Time's negative trend."""
+2024-01-29,-0.2673855401503272,,-0.09912574601410958,,-0.59,0.1382900670860062,Daylight: -0.59,"""Consider implementing a daily light exposure routine, given your negative daylight z-score, to potentially boost mood and energy levels."""
+2024-02-05,0.2333046087883517,,-0.09066240186247605,,,-0.43108083580435685,,
+2024-02-12,-0.1930462887248785,,-0.1591669619998668,,1.24,-0.1739046276024215,Daylight: +1.24,"""Given the positive daylight z-score, consider increasing your Vitamin D-rich activities or morning sunlight exposure to boost mood and overall well-being."""
+2024-02-19,0.206335764870476,,0.3936361961540217,,,0.20313501614542537,,
+2024-02-26,0.16402869598159248,,0.2751021082832431,-0.56,,0.18603148590706295,Sleep: -0.56,"""Prioritize sleep optimization strategies to improve overall well-being, considering a 0.56 standard deviation deficit in current sleep patterns."""
+2024-03-04,-0.5110229704302492,,-0.12668126772098012,,,0.022037898212653666,Resting HR: -0.51,"""Consider stress-reducing techniques or relaxation methods to manage resting heart rate, as a score of -0.51 may indicate elevated cardiovascular activity."""
+2024-03-11,0.41156073713125085,,-0.256716494671899,,,-0.04310611414107856,,
+2024-03-18,-0.2897149749700842,,-0.16687559667464205,,,-0.04716504556255885,,
+2024-03-25,0.07626723414061573,,-0.04776918630941945,0.51,0.65,-0.32241198214092753,Sleep: +0.51 | Daylight: +0.65,"""Given the combined positive trends in Sleep and Daylight, prioritize morning sunlight exposure for a natural boost in alertness and circadian rhythm synchronization."""
+2024-04-01,0.1299904496996649,,0.294074427408305,,-0.83,0.15809573762075552,Daylight: -0.83,"""Consider increasing Daylight exposure to boost circadian rhythms and overall well-being, as the negative z-score suggests a potential disconnect from natural light."""
+2024-04-08,0.30139809356731917,,0.16785074424549268,,-0.53,0.233519615665974,Daylight: -0.53,"""Consider increasing Daylight exposure as a simple way to boost mood and overall well-being, given your current score of -0.53."""
+2024-04-15,-0.10044872151396579,,0.049889612017064607,,,-0.31913764889961316,,
+2024-04-22,-0.40198880028809036,,-0.1737950875655118,,,-0.14020167743910347,,
+2024-04-29,0.07243389151344289,,-0.06013095191219079,,,0.05165737131297694,,
+2024-05-06,0.8046834973714381,,0.22345649246261004,,,0.350584341810957,Resting HR: +0.80,"""Consider incorporating stress-reducing activities to manage elevated Resting HR (+0.80), promoting overall cardiovascular well-being."""
+2024-05-13,-0.5822970068175765,,-0.06589618934860972,,,0.012287420726065696,Resting HR: -0.58,"""Consider consulting with a cardiologist due to elevated resting HR, potentially indicating increased cardiovascular risk, and develop strategies for heart rate management."""
+2024-05-20,0.43245433484408025,,0.3166322194681204,,,-0.006469544876312802,,
+2024-05-27,-0.20983561633004655,,-0.33714256767191786,,,-0.18725689744797386,,
+2024-06-03,-0.3192283536255733,,-0.012128039534643217,,0.65,-0.07519515479841674,Daylight: +0.65,"""Take advantage of the extra daylight hours by increasing outdoor activities to boost your mood and overall well-being!"""
+2024-06-10,0.42799077512466094,,0.039884843888261044,-0.55,0.71,-0.32596723688251633,Sleep: -0.55 | Daylight: +0.71,"""Consider increasing natural light exposure to boost mood and energy, given the positive daylight z-score trend."""
+2024-06-17,-0.05115719388947498,,-0.15711014833679451,,,0.22949787126443746,,
+2024-06-24,-0.1177202640104202,,-0.0926369434315875,,,0.18084940584299325,,
+2024-07-01,0.92232945647794,,-0.04670249296532837,,,-0.11577985493318768,Resting HR: +0.92,"""Consider incorporating stress-reducing activities, such as meditation or yoga, to mitigate potential cardiovascular strain associated with elevated resting heart rate (+0.92)."""
+2024-07-08,-0.36963313169096057,,-0.006689354127028971,,-0.8,0.36298016661196514,Daylight: -0.80,"""Prioritize evening illumination to combat potential daylight deficiency, enhancing overall mood and energy."""
+2024-07-15,-0.08124680041557313,,-0.2575718086009987,,,-0.35017278359237647,,
+2024-07-22,0.201996439025525,,0.09182641194207537,,,0.5981105276018549,Noise Exposure: +0.60,"""Consider ear protection or adjust workspaces to reduce noise exposure, as excessive sound can negatively impact auditory health."""
+2024-07-29,-0.1710047868307129,,-0.12055534513928175,,,0.26711464533200185,,
+2024-08-05,-0.01375763307966246,,0.022012321238627786,,0.56,-0.284039902707251,Daylight: +0.56,"""Embrace the extra daylight by taking a 15-minute morning walk to boost vitamin D levels and energy!"""
+2024-08-12,0.3490038874922787,,-0.08741071788968344,,,-0.08969214220514742,,
+2024-08-19,-0.11154107476978899,,0.49618148846121113,,,0.2548639726080197,,
+2024-08-26,-0.6646322962925237,,-0.2990040394701783,,,-0.2887551042814438,Resting HR: -0.66,"""Consider increasing physical activity to optimize cardiovascular health, as your resting heart rate suggests a potential need for increased circulatory efficiency."""
+2024-09-02,-0.023836532515830428,,0.815525670652456,,,0.07007963638761608,Exercise Time: +0.82,"""Given your consistently strong ExerciseTime z-scores, aim for 10-15% increase in physical activity to further boost overall wellness and maintain momentum."""
+2024-09-09,0.05296309836745694,,-0.7553461699396028,0.57,,-0.05362571523618737,Exercise Time: -0.76 | Sleep: +0.57,"""Increase daily exercise time to optimize physical activity and balance with sleep quality."""
+2024-09-16,0.15724760978323063,,0.31845506406054547,-0.53,-0.63,0.2552699398539383,Sleep: -0.53 | Daylight: -0.63,"""Consider increasing daylight exposure to balance circadian rhythms and improve overall well-being, given current sleep and daylight trends."""
+2024-09-23,-0.4491167954186265,,-0.16458381112601392,,,-0.4198417950725296,,
+2024-09-30,0.478721960461239,,0.26597456217733945,,,0.29856723126770085,,
+2024-10-07,0.1217493885392279,,0.3824054489505086,,,-0.47764774050535236,,
+2024-10-14,0.2496968159991755,,-0.06288827250813979,,,0.07860058499652608,,
+2024-10-21,-0.3465747748713376,,-0.33245028890292766,,,0.4597556507055166,,
+2024-10-28,0.6821658493346094,,-0.15740952372550945,,,-0.36180582612807133,Resting HR: +0.68,"""Consider incorporating stress-reducing activities, such as meditation or yoga, to manage increased resting heart rate and promote overall well-being."""
+2024-11-04,-0.4133322373225173,,0.2855653745691012,0.63,,0.5395908966354058,Sleep: +0.63 | Noise Exposure: +0.54,"""Consider earplugs or noise-cancelling headphones to reduce excessive noise exposure, as your +0.54 z-score suggests a potential impact on overall well-being."""
+2024-11-11,0.6313915433829554,,0.2668666429734206,,,-0.04853389752835878,Resting HR: +0.63,"""Given elevated Resting HR (+0.63), prioritize stress-reducing techniques like deep breathing exercises or meditation to manage increased heart rate."""
+2024-11-18,-0.4444024324693815,,-0.173586958121776,,,0.0021991411934999907,,
+2024-11-25,0.25018533723268316,,-0.20668032006362871,,0.8,-0.7177732653062409,Daylight: +0.80 | Noise Exposure: -0.72,"""Consider increasing daylight exposure given the strong positive trend (+0.80), which may help boost mood and overall well-being."""
+2024-12-02,0.05624953490217661,,0.3035792283200363,,,0.23737864814910672,,
+2024-12-09,-0.23158257645510955,,-0.4279253062763048,,,0.06983442296763116,,
+2024-12-16,-0.34369087876270615,,0.8161628917503666,,,-0.008536541789745198,Exercise Time: +0.82,"""Boost your daily exercise time by 15 minutes to leverage the existing positive trend (+0.82) for improved overall well-being."""
+2024-12-23,-0.13148571080063273,,-0.24850841555927008,,,-0.16314137182911237,,
+2024-12-30,-0.08598289842639972,,-0.12337087709784281,,,-0.743675164917585,Noise Exposure: -0.74,"""Given elevated noise exposure (-0.74), prioritize ear protection and consider noise-reducing measures to safeguard hearing health."""
+2025-01-06,0.2722538287338348,,0.13391291975271122,,,-0.13919216726574835,,
+2025-01-13,0.6047340204479933,,-0.2076390298696328,0.72,-0.51,0.2819544038029073,Resting HR: +0.60 | Sleep: +0.72 | Daylight: -0.51,"""Consider increasing Daylight exposure to potentially mitigate the negative impact on overall well-being."""
+2025-01-20,-0.18628822446547677,,0.44969337732520803,,0.65,-0.3901197784697877,Daylight: +0.65,"""Given the positive daylight z-score, prioritize morning sunlight exposure for improved mood and energy."""
+2025-01-27,-0.09145890902992664,,0.1674735086941992,,,0.3549954256784481,,
+2025-02-03,0.1876373306602304,,6.740582719886947e-05,,,0.3646519663235668,,
+2025-02-10,0.45564742831506005,,-0.24635749923588998,,,-0.26914228567513254,,
+2025-02-17,-0.34293490653062203,,-0.05909681647680546,,,-0.19693318563439002,,
+2025-02-24,-0.23466701592210112,,0.13713210298412468,-0.59,,0.5036236833486617,Sleep: -0.59 | Noise Exposure: +0.50,"""Address the noise exposure with ear protection or a quiet environment to promote better sleep and overall well-being."""
+2025-03-03,-0.4138547431345398,,-0.5066389536364729,0.62,,-0.304749396082912,Exercise Time: -0.51 | Sleep: +0.62,"""Prioritize a 15-minute evening walk to balance sleep quality and offset reduced exercise time, promoting healthier daily rhythms."""
+2025-03-10,0.45783624950892493,,0.07346104256182774,,0.94,0.3364880126481297,Daylight: +0.94,"""Given your elevated Daylight z-score, consider maximizing morning sunlight exposure for natural mood boosters and vitamin D production."""
+2025-03-17,-0.1302524734790242,,0.10606009330236503,,,-0.5359486396884776,Noise Exposure: -0.54,"""Consider using noise-cancelling devices or ear protection to minimize exposure, as a Z-Score of -0.54 suggests potential negative impacts on overall health."""
+2025-03-24,0.07772966864683242,,-0.10201022328407788,,,0.5390878319309367,Noise Exposure: +0.54,"""Consider wearing ear protection or taking regular breaks in a quiet environment due to high noise exposure (+0.54), potentially impacting hearing health."""
+2025-03-31,0.2561737691489505,,0.7038097278149757,,0.62,-0.3773671671704414,Exercise Time: +0.70 | Daylight: +0.62,"""Embrace daylight by taking a morning walk to complement your consistent exercise routine, leveraging this synergy for overall well-being."""

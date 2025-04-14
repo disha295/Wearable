@@ -71,7 +71,6 @@ tableau_exports/sleep_analysis_zscore.csv
 tableau_exports/time_in_daylight_zscore.csv 
 tableau_exports/vo2max_zscore.csv 
 tableau_exports/walking_running_distance_zscore.csv 
-tableau_exports/weekly_nudges_llm.csv 
 tableau_exports/workout_acceleration_zscore.csv 
 tableau_exports/workout_distance_zscore.csv 
 tableau_exports/workout_speed_zscore.csv
