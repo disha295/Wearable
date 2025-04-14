@@ -4,7 +4,6 @@ apple_health_export/workout-routes
 apple_health_export/export_cda.xml 
 apple_health_export/export.xml 
 apple_health_export/export.zip
-
 parsed_health_data/ActiveEnergyBurned.csv 
 parsed_health_data/AppleExerciseTime.csv 
 parsed_health_data/AppleStandHour.csv 
