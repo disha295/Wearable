@@ -1,11 +1,6 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import os
-
-if not os.path.exists("weekly_nudges_llm.csv"):
-    st.error("❌ File 'weekly_nudges_llm.csv' is missing in the app directory.")
-    st.stop()
 
 # Load your trend+nudge dataset
 df = pd.read_csv("weekly_nudges_llm.csv", parse_dates=["week"])
