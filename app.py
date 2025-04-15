@@ -44,25 +44,20 @@ tabs = st.tabs(["❤️ Cardiovascular Health", "🛌 Sleep & Lifestyle", "📊 
 with tabs[0]:
     st.markdown("### ❤️ Cardiovascular Health Dashboard")
     st.components.v1.iframe(
-    src="https://public.tableau.com/views/Cardinovascularhealthdashboard/Dashboard1?:language=en-US&publish=yes",
-    height=850, width=1000
-)
-
+        "https://public.tableau.com/views/Cardinovascularhealthdashboard/Dashboard1?:language=en-US&publish=yes",
+        height=850, width=1000
+    )
 
 with tabs[1]:
     st.markdown("### 🛌 Sleep, Activity & Lifestyle Dashboard")
-    st.components.v1.html(
-        """
-        <iframe src="https://public.tableau.com/views/SleepActivityandLifestyleDashboard/Dashboard1?:embed=y&:display_count=yes&publish=yes"
-                width="100%" height="827" frameborder="0" allowfullscreen></iframe>
-        """, height=850
+    st.components.v1.iframe(
+        "https://public.tableau.com/views/SleepActivityandLifestyleDashboard/Dashboard1?:embed=y&:display_count=yes&publish=yes",
+        height=850, width=1000
     )
 
 with tabs[2]:
     st.markdown("### 📊 Multi-Metric Anomaly Detection System")
-    st.components.v1.html(
-        """
-        <iframe src="https://public.tableau.com/views/Multi-metricanomalydetectionsystem/Dashboard1?:embed=y&:display_count=yes&publish=yes"
-                width="100%" height="827" frameborder="0" allowfullscreen></iframe>
-        """, height=850
+    st.components.v1.iframe(
+        "https://public.tableau.com/views/Multi-metricanomalydetectionsystem/Dashboard1?:embed=y&:display_count=yes&publish=yes",
+        height=850, width=1000
     )
