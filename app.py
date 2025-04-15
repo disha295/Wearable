@@ -43,11 +43,11 @@ tabs = st.tabs(["❤️ Cardiovascular Health", "🛌 Sleep & Lifestyle", "📊 
 
 with tabs[0]:
     st.markdown("### ❤️ Cardiovascular Health Dashboard")
-    st.components.v1.iframe( 
-        src="https://public.tableau.com/views/Cardinovascularhealthdashboard/Dashboard1?:language=en-US&publish=yes",
-        height=850, width=1000
+    st.components.v1.iframe(
+    src="https://public.tableau.com/views/Cardinovascularhealthdashboard/Dashboard1?:language=en-US&publish=yes",
+    height=850, width=1000
+)
 
-    )
 
 with tabs[1]:
     st.markdown("### 🛌 Sleep, Activity & Lifestyle Dashboard")
