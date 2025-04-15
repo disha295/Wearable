@@ -6,7 +6,7 @@ import os
 st.write("📂 Files in current directory:")
 st.write(os.listdir())
 
-if not os.path.exists("weekly_nudges_llm.csv"):
+if not os.path.exists("Wearable/weekly_nudges_llm.csv"):
     st.error("❌ File 'weekly_nudges_llm.csv' not found in current directory.")
 
 df = pd.read_csv("weekly_nudges_llm.csv", parse_dates=["week"])
