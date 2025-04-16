@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Home from "./pages/Home";
 import Dashboards from "./pages/Dashboards";
 import Nudges from "./pages/Nudges";
+import EcgWaveform from "./components/EcgWaveform.jsx";
 
 function App() {
   return (
@@ -20,6 +21,9 @@ function App() {
             <Link to="/nudges" className="hover:text-blue-600 transition">
               Nudges
             </Link>
+            <Link to="/ecg" className="hover:text-blue-600 transition">
+              ECG Viewer
+            </Link>
           </nav>
         </div>
       </header>
@@ -29,6 +33,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/dashboards" element={<Dashboards />} />
           <Route path="/nudges" element={<Nudges />} />
+          <Route path="/ecg" element={<EcgWaveform />} />
         </Routes>
       </main>
     </Router>
