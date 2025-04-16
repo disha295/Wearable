@@ -10,9 +10,12 @@
     "react-scripts": "5.0.1",
     "tableau-api": "^2.2.3"
   },
+  "homepage": "https://disha295.github.io",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
