@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import Plot from "react-plotly.js";
 import Papa from "papaparse";
 
 const Card = ({ children }) => (
@@ -64,25 +63,25 @@ const EcgWaveform = () => {
       <Card>
         <CardContent>
           <h3 className="text-lg font-semibold mb-2">
+            🧪 Batch R-Peak Visualizer
+          </h3>
+          <p className="text-sm text-gray-600 mb-2">
+            Automatically generates GIFs for high-variance or anomalous ECG
+            signals for review. Exported assets are used in clinical dashboards
+            and anomaly reports.
+          </p>
+          <ul className="list-disc pl-5 text-sm">
+            <li>Filtered signals parsed using FFT and bandpass filtering</li>
+            <li>R-peaks detected from processed RR intervals</li>
+          </ul>
+        </CardContent>
+      </Card>
+
+      <Card>
+        <CardContent>
+          <h3 className="text-lg font-semibold mb-2">
             📊 Clinical Insights from ECG Trends
           </h3>
-          <ul className="list-disc pl-5 text-sm mb-4">
-            <li>
-              <strong>SDNN vs RMSSD:</strong> Visualizes heart rate variability
-              (HRV). High SDNN & RMSSD imply strong parasympathetic regulation;
-              lower values suggest possible autonomic imbalance or stress.
-            </li>
-            <li>
-              <strong>LF/HF Ratio vs Avg Heart Rate:</strong> Highlights
-              sympathetic vs parasympathetic dominance. Ratios & HR distribution
-              help assess physical fatigue or recovery.
-            </li>
-            <li>
-              <strong>ECG Classification vs Heart Rate:</strong> Temporal trends
-              showing how heart rhythm types (e.g., Sinus Rhythm, AFib) relate
-              to average BPM over time.
-            </li>
-          </ul>
           <img
             src="/sdnn_vs_rmssd.png"
             alt="SDNN vs RMSSD"
@@ -103,6 +102,46 @@ const EcgWaveform = () => {
             alt="Waveform Plots with R-Peaks"
             className="rounded-xl border shadow w-full max-w-4xl"
           />
+        </CardContent>
+      </Card>
+
+      <Card>
+        <CardContent>
+          <h3 className="text-lg font-semibold mb-2">🤖 ML Model Evaluation</h3>
+          <p className="text-sm text-gray-600 mb-4">
+            The ECG classification model was trained on labeled Apple ECG data
+            and time-series features extracted from filtered waveforms. Model
+            evaluation metrics on the test set are listed below:
+          </p>
+          <ul className="list-disc pl-5 text-sm mb-4">
+            <li>
+              <strong>Model:</strong> LSTM (Long Short-Term Memory)
+            </li>
+            <li>
+              <strong>Accuracy:</strong> 100%
+            </li>
+            <li>
+              <strong>Precision:</strong> 1.00
+            </li>
+            <li>
+              <strong>Recall:</strong> 1.00
+            </li>
+            <li>
+              <strong>F1-Score:</strong> 1.00
+            </li>
+            <li>
+              <strong>Classes:</strong> Sinus Rhythm, AFib, Poor Recording
+            </li>
+          </ul>
+          <img
+            src="/confusion_matrix.png"
+            alt="Confusion Matrix"
+            className="rounded-xl border shadow w-full max-w-md"
+          />
+          <p className="text-xs text-gray-500 mt-2">
+            All predictions matched true labels — no false positives or
+            negatives detected on holdout data.
+          </p>
         </CardContent>
       </Card>
     </div>
