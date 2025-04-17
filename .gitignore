@@ -75,3 +75,7 @@ tableau_exports/workout_acceleration_zscore.csv
 tableau_exports/workout_distance_zscore.csv 
 tableau_exports/workout_speed_zscore.csv
 node_modules
+node_modules/
+build/
+.DS_Store
+.cache/
